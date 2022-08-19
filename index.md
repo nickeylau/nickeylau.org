@@ -14,8 +14,6 @@ Syntax highlighted code block
 # hello world
 # hello world again
 
-[blog](https://nickeylau.github.io/nickeylau.org/blog.md)
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -30,6 +28,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+[blogContext](https://nickeylau.github.io/nickeylau.org/blog.md)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
