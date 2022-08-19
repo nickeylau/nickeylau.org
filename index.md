@@ -14,6 +14,8 @@ Syntax highlighted code block
 # hello world
 # hello world again
 
+[[blog]]
+
 # Header 1
 ## Header 2
 ### Header 3
