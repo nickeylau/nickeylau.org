@@ -14,7 +14,7 @@ Syntax highlighted code block
 # hello world
 # hello world again
 
-[[blog]]
+[blog](https://github.com/nickeylau/nickeylau.org/blob/gh-pages/blog.md)
 
 # Header 1
 ## Header 2
